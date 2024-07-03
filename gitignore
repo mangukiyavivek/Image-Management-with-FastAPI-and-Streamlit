@@ -1,7 +1,27 @@
+# Ignore the .env file
+.env
+
+# Ignore the venv folder
+venv/
+
+# Additional common entries
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.env
-*venv/
-*.venv/
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
