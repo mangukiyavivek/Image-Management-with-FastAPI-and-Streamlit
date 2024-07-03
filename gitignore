@@ -3,6 +3,4 @@ __pycache__/
 *.pyo
 *.pyd
 .env
-# Ignore virtual environment
-.env
 venv/
